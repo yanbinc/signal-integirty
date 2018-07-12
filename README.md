@@ -1,6 +1,6 @@
 # signal-integirty
 
-#This is site for exchange signal-interity knowledege.
+#This is site for exchange signal-integrity knowledege.
 
 
 Python/Matlab coding for signal integrity issue over 30 projects.
@@ -19,4 +19,5 @@ Including:
 11. PSIJ analysis.(pending)
 
 
-Any suggestion? Contact yanbin_c@hotmail.com
+Any suggestion and feedback? 
+Please contact yanbin_c@hotmail.com

@@ -17,7 +17,7 @@ Including:
 9. Touchstone file analysis . Causality Check/mixed-mode/merge.
 10. Time domain and frequency domain transfer. (hilbert)
 11. PSIJ analysis.(pending)
-
+12. ibis-AMI model validation.
 
 Any suggestion and feedback? 
 Please contact yanbin_c@hotmail.com

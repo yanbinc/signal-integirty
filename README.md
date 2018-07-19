@@ -1,6 +1,6 @@
 # signal-integirty
 
-#This is site for exchange signal-integrity knowledege.
+#This is site for study & exchange signal-integrity knowledege.
 
 
 Python/Matlab coding for signal integrity issue over 30 projects.

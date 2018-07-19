@@ -1,4 +1,4 @@
-# signal-integirty
+# Signal-Integirty
 
 #This is site for study & exchange signal-integrity knowledege.
 

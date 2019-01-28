@@ -19,7 +19,10 @@ Including:
 11. PSIJ analysis.(pending)
 12. ibis-AMI model validation.
 13. RSM analysis (stepwise pending.)
-
+14. IBIS file VI/VT curve plot.(Zout Calc)
+15. tek wfm file read(base on tek library)
+16. tr0 file read.(old version. based on cpp sim library)
+17. data scrambling method.
 
 Any suggestion and feedback? 
 Please contact yanbin_c@hotmail.com

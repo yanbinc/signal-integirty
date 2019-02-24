@@ -16,10 +16,10 @@ Including:
 8.  Eye diagram centering .auto-measure EH/EW & setup/hold time.
 9.  Touchstone file analysis . Causality Check/mixed-mode/merge.
 10. Time domain and frequency domain transfer. (hilbert)
-11. PSIJ analysis.(pending)
+11. PSIJ analysis.
 12. ibis-AMI model validation.
-13. RSM analysis (stepwise pending.)
-14. IBIS file VI/VT curve plot.(Zout Calc)
+13. RSM analysis (stepwise pending.collate JMP backward 1st result well.)
+14. IBIS file VI/VT curve plot and Zout calc.(Zout Calc)
 15. tek wfm file read(base on tek library)
 16. tr0 file read.(old version. based on cpp sim library)
 17. data scrambling method.
